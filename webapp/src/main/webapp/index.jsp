@@ -5,10 +5,10 @@
     <img src="https://www.dabrowa-gornicza.com/wp-content/uploads/2018/07/wsb.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 900px; height: 169px; margin: 0px; -webkit-user-select: text; -webkit-user-drag: auto; width: 169px;" alt="Akademia WSB | Study in Dąbrowa Górnicza" jsname="kn3ccd" aria-hidden="false">
     <p>Please fill in this form to create an account.</p>
     <hr>
-    <label for="email"><b>Name</b></label>
+    <label for="name"><b>Name</b></label>
     <input type="text" placeholder="candidate firstname" name="name" id="name" required>
     <br>
-    <label for="email"><b>Surname</b></label>
+    <label for="surname"><b>Surname</b></label>
     <input type="text" placeholder="candidate lastname" name="surname" id="surname" required>
     <br>
     <label for="email"><b>Email</b></label>
