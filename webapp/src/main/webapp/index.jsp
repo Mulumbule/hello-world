@@ -1,9 +1,10 @@
 <form action="action_page.php">
   <div class="container">
+
     <h1>Welcome to Dabrowa Gornicza WSB University</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
-
+    < img src = "/Users/pacienciaantonio/Downloads/wsb.png" alt = "WSB university" >
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
