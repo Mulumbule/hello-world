@@ -6,6 +6,10 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
     <label for="email"><b>Email</b></label>
+    <input type="text" placeholder="Enter firstname" name="name" id="name" required>
+    <br>
+    <input type="text" placeholder="Enter lastname" name="surname" id="surname" required>
+    <br>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
     <label for="psw"><b>Password</b></label>
