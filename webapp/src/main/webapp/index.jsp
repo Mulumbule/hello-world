@@ -2,7 +2,7 @@
   <div class="container">
 
     <h1>Welcome to Dabrowa Gornicza WSB University</h1>
-    <img src="https://www.dabrowa-gornicza.com/wp-content/uploads/2018/07/wsb.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 300px; height: 169px; margin: 0px; -webkit-user-select: text; -webkit-user-drag: auto; width: 169px;" alt="Akademia WSB | Study in Dąbrowa Górnicza" jsname="kn3ccd" aria-hidden="false">
+    <img src="https://www.dabrowa-gornicza.com/wp-content/uploads/2018/07/wsb.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 900px; height: 169px; margin: 0px; -webkit-user-select: text; -webkit-user-drag: auto; width: 169px;" alt="Akademia WSB | Study in Dąbrowa Górnicza" jsname="kn3ccd" aria-hidden="false">
     <p>Please fill in this form to create an account.</p>
     <hr>
     <label for="email"><b>Email</b></label>
