@@ -6,10 +6,10 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
     <label for="name"><b>Name</b></label>
-    <input type="text" placeholder="candidate firstname" name="name" id="name" required>
+    <input type="text" placeholder="candidate name" name="name" id="name" required>
     <br>
     <label for="surname"><b>Surname</b></label>
-    <input type="text" placeholder="candidate lastname" name="surname" id="surname" required>
+    <input type="text" placeholder="candidate surname" name="surname" id="surname" required>
     <br>
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter email" name="email" id="email" required>
